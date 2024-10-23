@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../AddMaster" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../BreakTimer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../DateNight" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../DistanceConverter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../HelloWorld" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../MovieApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../TimerPro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../TipMaster" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../saveStuff" vcs="Git" />
+  </component>
+</project>

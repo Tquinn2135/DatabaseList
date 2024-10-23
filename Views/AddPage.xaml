@@ -7,7 +7,7 @@
         <StackLayout Padding="20,20">
             <Label Text="Add Movie Title" FontSize="Large" FontAttributes="Bold" Margin="0,10,0,20"/>
             <Border Stroke="gray" StrokeThickness="1">
-                <Entry x:Name="txtTitle" />
+                <Entry x:Name="txtTitle" IsTextPredictionEnabled="False" /> 
             </Border>
             
             <Label Text="Add Movie Rating" FontSize="Large" FontAttributes="Bold" Margin="0,40,0,20"/>
